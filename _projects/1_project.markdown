@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Introduction to Machine Learning (PhD) - S'18
+description: Teaching Assistant
+img: /assets/img/ml-logo.jpg
+redirect: http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/
 importance: 1
 ---
 

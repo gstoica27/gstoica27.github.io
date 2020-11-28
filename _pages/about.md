@@ -1,24 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Research Associate. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>9112 GHC</p>
+    <p>4902 Forbes Ave.</p>
+    <p>Pittsburgh, PA 15213</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a Research Associate in the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> advised by Professor <a href="http://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a>. 
+ 
+I am broadly interested in multi-task learning, natural language processing, and never ending learning. I believe that language compositionality tightly couples the aforementioned
+subject areas: abstract problems can be mapped to standard expressions that are naturally combined under a unified framework. Moreover, I believe that research in these areas may bring us closer to bridging the gap between human and machine learning.  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently I am working compositional visual question answering, and explaining anomalies in video scenes using natural language. Previously, I have researched relation extraction and knowledge graph link prediction. I have proposed frameworks that improve model performances in both problems as well as introduced a new relation extraction dataset. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a Bachelors degree in Statistics and Machine Learning from Carnegie Mellon University with School of Computer Science and University Honors.
